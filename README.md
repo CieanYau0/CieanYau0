@@ -2,11 +2,11 @@
 
 <h3>
 
-```java
+```javascript
     function(){
         console.log("Java、JavaScript、Python");
         
-        var Learn = ["C、C++、Kotlin"];
+        var Learn = ["C","C++","Kotlin"];
     }
 
 ```
