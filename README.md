@@ -4,9 +4,9 @@
 
 ```javascript
     function(){
-        console.log("Java、JavaScript、Python");
+        console.log("Java、JavaScript");
         
-        var Learn = ["C","C++","Kotlin"];
+        var Learn = ["Python","Kotlin"];
     }
 
 ```
