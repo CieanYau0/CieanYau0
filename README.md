@@ -4,7 +4,7 @@
 
 ```javascript
     function(){
-        console.log("Java、JavaScript");
+        console.log("Java、JavaScript、Groovy");
         
         var Learn = ["Python","Kotlin"];
     }
