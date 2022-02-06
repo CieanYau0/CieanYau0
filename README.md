@@ -4,11 +4,9 @@
 
 ```javascript
     function(){
-        console.log("Java、JavaScript");
+        console.log("Java 永远的神");
         
-        var Learn = ["Python","Kotlin"];
     }
-
 ```
 <h3>
 
